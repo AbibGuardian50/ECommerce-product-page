@@ -24,3 +24,12 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
 }
 
+article.main-desc {
+    padding-left: 1.5rem;
+    /* font-size: 200px; */
+}
+
+nav {
+    display: none;
+}
+
