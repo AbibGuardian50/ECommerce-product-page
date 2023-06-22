@@ -85,6 +85,11 @@ nav>a {
 
 /* nav > p */
 
+.pict-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 
 section.discount {
     display: flex;
